@@ -1,6 +1,11 @@
 # 📚 Ruta de Estudio 
 El hecho de aprender algo siempre, siempre va a implicar la lectura de libros. La IA es algo que se estudia en detalle para quienes estructuran nuevos algoritmos, un tanto menos para los que despliegan sus redes neuronales y nada para los que ve solo videos. No es que sea algo malo pero, en su caso es indispensable que sepan que estan haciendo y como impacta cada espacio porque deberán seleccionar un modelo preentrenado y ajustarlo a sus necesidades. 
 
+> Recomendación: Utilizen Google Colab, existe anaconda o miniconda que pueden intalar y desarrollar en VScode pero, para simplificar y no tener complicaciones
+
+
+
+
 ## 🎯 Objetivos
 - Comprender y manipular la sintaxis del lenguaje **Python**
 - Manejar las liberías dentro de Python **NUMPY, PANDAS, MATPLOTLIB**.
